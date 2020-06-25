@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7dd00bd-c089-4566-8b07-71d431ba823b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiaxuch/AutocodeApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiaxuch/autocode/example/AutoAreaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiaxuch/autocode/mapper/AutoAreaMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiaxuch/autocode/model/AutoArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiaxuch/code/controller/AreaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiaxuch/code/mapper/AreaMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiaxuch/code/model/AreaInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiaxuch/code/service/AreaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/area.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/auto/mapper/AutoAreaMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/AreaMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiaxuch/AutocodeApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiaxuch/code/controller/AreaController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiaxuch/code/mapper/AreaMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiaxuch/code/model/AreaInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiaxuch/code/service/AreaService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/AreaMapper.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../../Apache/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\Apache\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dnjAQ1KC6bzm27iM06ymAICmej" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="AutocodeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="autocode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiaxuch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jiaxuch.AutocodeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.AutocodeApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7dd00bd-c089-4566-8b07-71d431ba823b" name="Default Changelist" comment="" />
+      <created>1593067606164</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593067606164</updated>
+      <workItem from="1593067609971" duration="3266000" />
+      <workItem from="1593077143380" duration="3457000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="588" y="123" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1593086773570">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="588" y="123" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1536.864@0.0.1536.864" timestamp="1593086773570" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1593067700055">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1593067700055" />
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1593080959547">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1593080959547" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1593080959546">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1593080959546" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1593080959546">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1593080959546" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1593080959546">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1593080959546" />
+    <state width="1493" height="223" key="GridCell.Tab.1.bottom" timestamp="1593080959547">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1593080959547" />
+    <state width="1493" height="223" key="GridCell.Tab.1.center" timestamp="1593080959547">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1593080959547" />
+    <state width="1493" height="223" key="GridCell.Tab.1.left" timestamp="1593080959547">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1593080959547" />
+    <state width="1493" height="223" key="GridCell.Tab.1.right" timestamp="1593080959547">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1593080959547" />
+    <state x="526" y="134" key="RollbackChangesDialog" timestamp="1593086839194">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="526" y="134" key="RollbackChangesDialog/0.0.1536.864@0.0.1536.864" timestamp="1593086839194" />
+    <state x="270" y="77" key="SettingsEditor" timestamp="1593086758771">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="270" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1593086758771" />
+    <state x="468" y="164" width="600" height="536" key="find.popup" timestamp="1593077928022">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="468" y="164" width="600" height="536" key="find.popup/0.0.1536.864@0.0.1536.864" timestamp="1593077928022" />
+    <state x="481" y="219" key="git4idea.merge.GitPullDialog" timestamp="1593081314400">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="481" y="219" key="git4idea.merge.GitPullDialog/0.0.1536.864@0.0.1536.864" timestamp="1593081314400" />
+  </component>
+</project>

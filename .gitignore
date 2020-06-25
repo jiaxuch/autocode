@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+/target/
+.gitignore
+/.git
+/.idea
+/autocode.iml
+/.gitignore
